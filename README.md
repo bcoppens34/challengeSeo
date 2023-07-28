@@ -15,7 +15,7 @@ https://github.com/bcoppens34/challengeSeo
 
 ## Description
 
-In this homework assignment, I changed all of my divs to other html elments including header, nav, main, figure, article, section, aside and footer.
+Module 1 Challenge - refactoring code of a marketing agency's website to follow accessibility standards and optimize for search engines.
 
 ## User Story
 
